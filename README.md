@@ -10,7 +10,7 @@ Hello. My name is Reno Sifana Paksi. I'm Self Taught IT and Programmer at home. 
 - English (As other language I know). Currently I know about 90% English, and 10% to learn new phrase. 
 ## My experiences
 - From 2000s using Microsoft Windows until 2021s
-- - 2021 onwards using Linux (because I'm using old laptop powered by Intel Core I3 350M Gen 1 codenames: Arrandale)
+- 2021 onwards using Linux (because I'm using old laptop powered by Intel Core I3 350M Gen 1 codenames: Arrandale)
 - From 2010 onwards using Android phone (Previously I'm using Nokia branded feature phone)
 ## Operating System currently i use
 - Linux Mint 22.1 (Based on Ubuntu 24.04 LTS) on my laptop

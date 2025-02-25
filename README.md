@@ -23,7 +23,7 @@ Hello. My name is Reno Sifana Paksi. I'm Self Taught IT and Programmer at home. 
 - MIUI 12.0.15 (Based on Android 10) on Redmi 9A
 
 ## Occupation
-I'm currently working at [Wikimedia Project](https://wikimedia.org) (such as [Wikipedia](https://wikipedia.org), [Wiktionary](https://wiktionary.org) and as contributor at [AlternativeTo.net](https://alternativeto.net)
+I'm currently working at [Wikimedia Project](https://wikimedia.org) (such as [Wikipedia](https://wikipedia.org), [Wiktionary](https://wiktionary.org) and so on), and as contributor at [AlternativeTo.net](https://alternativeto.net)
 
 ## How to reach me
 - [Facebook](https://facebook.com/renosifana)
@@ -33,4 +33,4 @@ I'm currently working at [Wikimedia Project](https://wikimedia.org) (such as [Wi
 - [E-Mail](renosifana.paksi@gmail.com)
 
 ## Notes:
-Sorry if my English is bad and grammar errors
+Sorry if my English is bad and grammar errors.

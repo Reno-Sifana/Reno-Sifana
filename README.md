@@ -1,36 +1,37 @@
 ## Hi there 👋
 
-## Let's introduce myself
+## Introduction
 
 ## About me
-Hello. My name is Reno Sifana Paksi. I'm Self Taught IT and Programmer at home. I'm have disabilitis (known as Cerebral Palsy) since i'm was born. I can't standing and walking like normal people does. And I can't hold object properly well and I can't type using left hand, but i'm always hold object and type using Right hand. And my families always loved me (and sometimes my families always can help me when i need something else).
+Hello! My name is Reno Sifana Paksi. I am a self-taught IT enthusiast and programmer. I have Cerebral Palsy, a condition I've had since birth. This means I cannot stand or walk like most people, and I have difficulty holding objects. While I cannot type with my left hand, I am able to hold objects and type using my right hand. My family is very supportive and always there to help me when I need it.
 
 ## Education
 - Kindergarten
-- State Elementary School (Up until Grade 2 of State Elementary School). And then i learn myself via Internet at home (Such as: Reading news, Reading articles on websites, Blogs, Wikipedia, YouTube and so on). And I'm always Bookmarked on Web Browser for future references.
+- State Elementary School (up to Grade 2).
+- After that, I became self-taught by using the Internet. I learn from reading news, articles, blogs, Wikipedia, watching YouTube, and more. I always bookmark useful websites for future reference.
 
 ## Proficiency
-- Indonesian (As mother language)
-- English (As other language I know). Currently I know about 90% English, and 10% to learn new phrase. 
+- Indonesian (Native language)
+- English (Second language). I would say I'm about 90% proficient and always eager to learn more.
 
-## My experiences
-- From 2000s using Microsoft Windows until 2021s
-- 2021 onwards using Linux (because I'm using old laptop powered by Intel Core I3 350M Gen 1 codenames: Arrandale)
-- From 2010 onwards using Android phone (Previously I'm using Nokia branded feature phone)
+## My Experience
+- Used Microsoft Windows from the early 2000s until 2021.
+- Switched to Linux in 2021 (running on an older laptop with an Intel Core i3 350M processor).
+- Using Android phones since 2010 (I previously used Nokia feature phones).
 
-## Operating System currently i use
-- Linux Mint 22.1 (Based on Ubuntu 24.04 LTS) on my laptop
-- MIUI 12.0.15 (Based on Android 10) on Redmi 9A
+## Operating Systems I Currently Use
+- Linux Mint 22.1 (Based on Ubuntu 24.04 LTS) on my laptop.
+- MIUI 12.0.15 (Based on Android 10) on my Redmi 9A.
 
 ## Occupation
-I'm currently working at [Wikimedia Project](https://wikimedia.org) (such as [Wikipedia](https://wikipedia.org), [Wiktionary](https://wiktionary.org) and so on), and as contributor at [AlternativeTo.net](https://alternativeto.net)
+I currently contribute to [Wikimedia projects](https://wikimedia.org) (such as [Wikipedia](https://wikipedia.org) and [Wiktionary](https://wiktionary.org)) and I am also a contributor at [AlternativeTo.net](https://alternativeto.net).
 
 ## How to reach me
 - [Facebook](https://facebook.com/renosifana)
 - [Instagram](https://instagram.com/renosifana)
-- [X (Formerly known as Twitter)](https://x.com/PaksiReno)
+- [X (Formerly Twitter)](https://x.com/PaksiReno)
 - [Telegram](https://t.me/Reno_Sifana)
-- [E-Mail](renosifana.paksi@gmail.com)
+- [Email](mailto:renosifana.paksi@gmail.com)
 
-## Notes:
-Sorry if my English is bad and grammar errors.
+## Notes
+Please excuse any grammatical errors, as English is not my native language.

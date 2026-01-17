@@ -28,10 +28,8 @@ Most of the repositories in my profile are **forks** that I treat as my personal
 
 ### 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reno-Sifana&show_icons=true&theme=radical" alt="Reno's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reno-Sifana&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+[![Reno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reno-Sifana&show_icons=true&theme=radical)](https://github.com/Reno-Sifana)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reno-Sifana&layout=compact&theme=radical)](https://github.com/Reno-Sifana)
 
 ---
 
@@ -43,8 +41,8 @@ I have been an independent learner since childhood, navigating the world of IT w
 ### 💬 Let's Connect!
 I am always open to discussing technology, open-source development, or documentation workflows. Feel free to reach out—I'd love to connect!
 
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/renosifana)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/renosifana)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/PaksiReno)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Reno_Sifana)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:renosifana.paksi@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/renosifana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/renosifana)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PaksiReno)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Reno_Sifana)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renosifana.paksi@gmail.com)

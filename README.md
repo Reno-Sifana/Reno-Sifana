@@ -29,9 +29,11 @@ Most of the repositories in my profile are **forks** that I treat as my personal
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reno-Sifana&show_icons=true&theme=radical" alt="Reno's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reno-Sifana&show_icons=true&theme=radical" alt="Reno's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reno-Sifana&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Reno-Sifana&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reno-Sifana&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---

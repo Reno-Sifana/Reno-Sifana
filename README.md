@@ -20,7 +20,7 @@ Most of the repositories in my profile are **forks** that I treat as my personal
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Environment & Contributions:**
-*   **Desktop OS:** CachyOS Linux (KDE Plasma)
+*   **Desktop OS:** Fedora Linux 44 KDE Plasma edition
 *   **Mobile OS:** MIUI 12.0.15 (Redmi 9A)
 *   **Active Contributor:** [Wikimedia Projects](https://wikimedia.org) (Wikipedia, Wiktionary) & [AlternativeTo.net](https://alternativeto.net)
 
